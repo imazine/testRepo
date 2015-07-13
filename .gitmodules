@@ -1,0 +1,3 @@
+[submodule "JSconvention"]
+	path = JSconvention
+	url = git@github.com:imazine/JSconvention.git
